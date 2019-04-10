@@ -4,3 +4,29 @@
 /*-----FONTS & ICONS----- */
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i|UnifrakturMaguntia");
+
+
+.container {
+  background-color: black;
+  margin: 0px;
+  width: 100%;
+}
+
+.header {
+  /*position: fixed*/
+}
+
+.t-wrap {
+  height: 100%;
+  width: 100%;
+  /*margin: 0px auto;*/
+  position: absolute;
+  left: 0;
+  right: 0;
+
+}
+
+h1 {
+  font-size: 20px;
+  color: white;
+}
